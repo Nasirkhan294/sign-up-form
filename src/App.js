@@ -1,9 +1,11 @@
-import Sidebar from "./Sidebar";
+import Form from "./Form";
+import SideImage from "./SideImage";
 
 function App() {
   return (
-    <div className="h-screen bg-stone-950 px-6">
-      <Sidebar />
+    <div className="flex h-screen bg-stone-950 px-8">
+      <SideImage />
+      <Form />
     </div>
   );
 }

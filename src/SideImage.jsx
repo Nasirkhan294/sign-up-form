@@ -5,7 +5,7 @@ const logo = {
   alt: "odin logo",
 };
 
-const Sidebar = () => {
+const SideImage = () => {
   return (
     <div
       className="w-1/3 bg-red-500 h-full relative"
@@ -19,11 +19,11 @@ const Sidebar = () => {
         <img
           src={logo.src}
           alt={logo.alt}
-          className="w-20 ml-12"
+          className="w-16 ml-12"
         />
-        <p className="text-8xl text-white mt-3" style={{fontFamily: "Skranji"}}>ODIN</p>
+        <p className="text-7xl text-white mt-3" style={{fontFamily: "Skranji"}}>ODIN</p>
       </div>
-      <cite className="absolute bottom-8 left-20 text-xs text-white">
+      <cite className="absolute bottom-4 left-28 text-xs text-white">
         Photo by{" "}
         <a
           href="https://unsplash.com/photos/green-leaf-plant-in-close-up-photography-25xggax4bSA"
@@ -47,4 +47,4 @@ const Sidebar = () => {
   );
 };
 
-export default Sidebar;
+export default SideImage;
