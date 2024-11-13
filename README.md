@@ -2,7 +2,7 @@
 
 # 📖 Sign Up Form <a name="about-project"></a>
 
-**Sign Up Form:** A simple sign-up form build using React and Tailwind.
+ A simple sign-up form build using React and Tailwind.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -72,8 +72,8 @@ To run the project, execute the following command:
 
 👤 **Nasirkhan294**
 
-- GitHub: [Github](https://github.com/Nasirkhan294)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/nasirmahd/)
+- GitHub: [Nasirkhan294](https://github.com/Nasirkhan294)
+- LinkedIn: [nasirmahd](https://www.linkedin.com/in/nasirmahd/)
 
 
  
