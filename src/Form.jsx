@@ -95,13 +95,13 @@ const Form = () => {
       <div className="bg-gray-300 h-1/3 p-10">
         <button
           type="submit"
-          className="py-3 px-12 bg-lime-900 text-white rounded"
+          className="py-3 px-12 bg-lime-900 hover:bg-lime-950 text-white rounded"
         >
           Create Account
         </button>
         <p className="mt-6 font-medium text-gray-600">
           Already have an account?{" "}
-          <button type="button" className="text-lime-900 font-semibold">
+          <button type="button" className="text-lime-900 hover:text-lime-950 font-semibold">
             Log in
           </button>
         </p>
